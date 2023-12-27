@@ -1,8 +1,7 @@
 
 ###
-
-- 🔭 Trabalho: Sou programador autônomo para um servidor de games (GTA RP). / 
-I'm a freelance programmer for a game server (GTA RP).
-- 📫 Onde me contatar/How to reach me: lucasgomesribeiroskt@hotmail.com
-- 🎓 Faculdade/college: Análise e desenvolvimento de sistemas/Analysis and systems development - Centro Universitário Carioca - UNICARIOCA
+- 🎯 Goal: I want to work with mobile development and in the future, being able to work as a senior, I am interested in working with technology abroad.
+- 💼 Job: I am currently a GTA server developer using Lua.
+- 📫 How to reach me: lucasgomesribeiroskt@hotmail.com
+- 🎓 College: Análise e desenvolvimento de sistemas/Analysis and systems development - Centro Universitário Carioca - UNICARIOCA
 >
